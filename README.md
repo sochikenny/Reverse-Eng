@@ -1,4 +1,4 @@
-# Unit 14 Sequelize Homework: Reverse Engineering Code
+# Reverse Engineering Code
 
 ```
 AS A developer
