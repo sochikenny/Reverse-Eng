@@ -16,4 +16,8 @@ together in the development of an application.
 
 - - -
 
+## Installation
+
+Feel free to clone this repo and play with it in order to better understand how every aspect of this application
+
 
