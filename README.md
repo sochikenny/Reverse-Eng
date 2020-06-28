@@ -14,7 +14,6 @@ To go through MVC model of a full stack application and record the summary and
 functionality of each file in order to better understand how everything comes 
 together in the development of an application. 
 
-- - -
 
 ## Installation
 
